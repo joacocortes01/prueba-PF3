@@ -18,8 +18,7 @@ body {
   font-size: large;
   font-weight: 400;
 }
-
-.nav-link {
+.navbar-brand .nav-link {
   color: white;
 }
 
@@ -45,24 +44,20 @@ section {
   margin-top: 1rem;
   padding-top: 1rem;
 }
-
-.footer-sm {
+.footer .footer-sm {
   background-color: rgb(141, 161, 247);
   color: white;
   text-align: center;
   padding-bottom: 1rem;
 }
-
-.footer-sm__icons {
+.footer .footer-sm .footer-sm__icons {
   background-color: rgb(141, 161, 247);
   padding-bottom: 1rem;
 }
-
-.footer_img {
+.footer .footer_img {
   background-color: rgb(141, 161, 247);
 }
-
-.footer-bottom__copyright {
+.footer .footer-bottom__copyright {
   background-color: rgb(141, 161, 247);
   text-align: center;
   color: white;
